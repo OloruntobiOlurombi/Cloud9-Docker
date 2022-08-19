@@ -1,3 +1,2 @@
 # Cloud9-Docker
-To run this code you will need Docker installed. Remember the suggestion about using AWS Cloud9? It has Docker already installed for you. This may be a time to try this out and see if this workflow simplifies the way you work.
-# Hello
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/OloruntobiOlurombi/Cloud9-Docker/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/OloruntobiOlurombi/Cloud9-Docker/tree/main)
